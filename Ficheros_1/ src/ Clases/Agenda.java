@@ -54,7 +54,7 @@ public class Agenda {
     public void setHora(String hora) {
         this.hora = hora;
     }
-
+//hola hola
     @Override
     public String toString() {
         return "Agenda{" + "pista=" + pista + ", dNI=" + dNI + ", dia=" + dia + ", hora=" + hora + '}';
