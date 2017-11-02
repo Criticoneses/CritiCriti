@@ -18,6 +18,7 @@ public class PanelPrueba extends javax.swing.JPanel {
         initComponents();
         
         VentanaPrincipal dialog = new VentanaPrincipal(new javax.swing.JFrame(), true);
+        System.out.print("hola");
     }
 
     PanelPrueba(VentanaPrincipal aThis, boolean b) {
